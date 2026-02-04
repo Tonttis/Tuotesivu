@@ -1,12 +1,16 @@
 # README
 
-## Lyhyt kuvaus
+## Lyhyt kuvaus tuotearvostelu sivustosta
 
-Moderni, tuotantovalmis web-sovelluspohja, joka tarjoaa valmiin kehitysympäristön Next.js + TypeScript -projektille.
+Moderni, tuotantovalmis web-sovellus, joka tarjoaa valmiin kehitysympäristön Next.js + TypeScript -tuotearvosteluprojektille.
 
 ## Asennus
 
 Varmista, että sinulla on **Bun** asennettuna.
+
+```bash
+npm bun install -g
+```
 
 Projektin riippuvuuksien asentaminen (projektin juurihakemistossa):
 
