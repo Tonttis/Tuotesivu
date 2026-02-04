@@ -18,6 +18,10 @@ Projektin riippuvuuksien asentaminen (projektin juurihakemistossa):
 bun install
 ```
 
+## Tietokanta
+
+Tietokanta on paikallinen sekä MongoDB:ssä. Lisää MongoDB yhdistysmerkkijono .env tiedostoon. Luo se mikäli sitä ei jo ole.
+
 ## Komennot
 
 Kehityspalvelimen käynnistys:
